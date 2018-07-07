@@ -1,2 +1,10 @@
-# hcode-php7
-Exercícios e exemplos de PHP 7 - Hcode Treinamentos
+# Curso HCode - PHP 7
+# Section 3
+Variáveis
+- Limpar variável
+- Concatenação
+- Tipo de dados primitivos
+- Variáveis pré-definidas
+- Escopo de variáveis
+- Operadores
+- Strings
