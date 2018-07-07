@@ -1,4 +1,4 @@
-# Curso HCode - PHP 7
+# Curso Hcode - PHP 7
 # Section 3
 Variáveis
 - Limpar variável
