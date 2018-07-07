@@ -13,6 +13,7 @@ Variáveis
 # Section 4
 Estruturas de Controle e Laços de repetição
 - If, Else
+- Operador ternário
 - Switch Case
 - For
 - Foreach
