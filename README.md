@@ -1,4 +1,4 @@
-# Curso Hcode - PHP 7
+# Curso Hcode Treinamentos - PHP 7
 # Section 3
 Variáveis
 - Limpar variável
@@ -8,3 +8,4 @@ Variáveis
 - Escopo de variáveis
 - Operadores
 - Strings
+- Include e Require
