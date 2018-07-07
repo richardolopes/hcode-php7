@@ -1,4 +1,4 @@
-# Curso Hcode Treinamentos - PHP 7
+# Curso PHP 7 - Hcode Treinamentos
 # Section 3
 Variáveis
 - Limpar variável
@@ -9,3 +9,11 @@ Variáveis
 - Operadores
 - Strings
 - Include e Require
+
+# Section 4
+Estruturas de Controle e Laços de repetição
+- If, Else
+- Switch Case
+- For
+- Foreach
+- While
