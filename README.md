@@ -24,3 +24,12 @@ Estruturas de Controle e Laços de repetição
 - Arrays
 - Constantes
 - JSON
+
+# Section 6
+- session_start
+- session_unset
+- session_destroy
+- session_id
+- session_regenerate_id
+- session_save_path
+- session_save_path
