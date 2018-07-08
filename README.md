@@ -18,3 +18,9 @@ Estruturas de Controle e Laços de repetição
 - For
 - Foreach
 - While
+- Do while
+
+# Section 5
+- Arrays
+- Constantes
+- JSON
