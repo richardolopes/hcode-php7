@@ -1,5 +1,5 @@
 <?php
-// Estrutura de controle - Switch Case
+// Switch Case
 
 // Date - Função do própio PHP - w (dia da semana)
 $diaDaSemana = date("w");
