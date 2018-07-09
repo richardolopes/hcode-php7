@@ -3,7 +3,6 @@
 
 $total = 100;
 
-
 // No do while o código é executado pelo menos uma vez antes de verificar a condição.
 do {
 
