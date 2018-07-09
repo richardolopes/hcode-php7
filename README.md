@@ -21,11 +21,13 @@ Estruturas de Controle e Laços de repetição
 - Do while
 
 # Section 5
+Arrays
 - Arrays
 - Constantes
 - JSON
 
 # Section 6
+Session
 - session_start
 - session_unset
 - session_destroy
@@ -33,3 +35,13 @@ Estruturas de Controle e Laços de repetição
 - session_regenerate_id
 - session_save_path
 - session_save_path
+
+# Section 7
+Funções
+- Função
+- Sub-rotina
+- Paramêtros de uma função
+- Retornar todos os paramêtros em array
+- Passagem de paramêtros por referência de memória
+- Função recursiva
+- Função anônima
