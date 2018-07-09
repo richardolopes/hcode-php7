@@ -1,5 +1,5 @@
 <?php
-// Retornar todas os paramêtros em array.
+// Retornar todos os paramêtros em array.
 
 function ola() {
 	$argumentos = func_get_args();
