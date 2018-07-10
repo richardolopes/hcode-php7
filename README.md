@@ -27,7 +27,7 @@ Arrays
 - JSON
 
 # Section 6
-Session
+Sessões
 - session_start
 - session_unset
 - session_destroy
@@ -45,3 +45,11 @@ Funções
 - Passagem de paramêtros por referência de memória
 - Função recursiva
 - Função anônima
+
+# Section 8
+Data e hora
+- date
+- time
+- strtotime
+- setlocale
+- DateTime
