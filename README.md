@@ -53,3 +53,4 @@ Data e hora
 - strtotime
 - setlocale
 - DateTime
+- DateInterval
