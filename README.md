@@ -54,3 +54,11 @@ Data e hora
 - setlocale
 - DateTime
 - DateInterval
+
+# Section 9
+Programação Orientada a Objetos
+- Classe
+- Atributos
+- Métodos
+- Métodos estáticos
+- Métodos mágicos
