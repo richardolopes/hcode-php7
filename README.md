@@ -62,3 +62,10 @@ Programação Orientada a Objetos
 - Métodos
 - Métodos estáticos
 - Métodos mágicos
+- Encapsulamento
+- Herança
+- Interface
+- Classe Abstrata
+- Polimorfismo
+- Autoload
+- Namespace
