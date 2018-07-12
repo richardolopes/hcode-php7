@@ -69,3 +69,19 @@ Programação Orientada a Objetos
 - Polimorfismo
 - Autoload
 - Namespace
+
+# Section 10
+MySQL
+- Create
+- Insert
+- Select
+- Update
+- Delete
+- Truncate
+
+# Section 11
+Conexão com BD
+- prepare
+- bind_param
+- execute
+- fetch_array
