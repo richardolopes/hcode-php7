@@ -85,3 +85,11 @@ Conexão com BD
 - bind_param
 - execute
 - fetch_array
+
+# Section 12
+PHP Data Objects
+- new PDO
+
+# Section 13
+Data Access Object
+- DAO com PDO
