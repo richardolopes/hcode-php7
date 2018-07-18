@@ -93,3 +93,59 @@ PHP Data Objects
 # Section 13
 Data Access Object
 - DAO com PDO
+
+# Section 14
+Manipulação de arquivos
+- Criar e deletar pastas/arquivos
+- Upload de arquivos
+- Download de arquivos
+- Mover pastas/arquivos
+- cURL
+- Cookies
+
+# Section 15
+Tratamento de erros.
+- Try e Catch
+- error_handler
+
+# Section 16
+Graphics Library
+- Criar imagens
+- Editar imagens
+- Gerar Thumbnail
+
+# Section 17
+Gerar boletos
+- boletophp
+
+# Section 18
+Composer
+- Monolog
+
+# Section 19
+E-Mail
+- PHPMailer
+
+# Section 20
+RainTPL
+- Templates
+
+# Section 21
+Diretórios virtuais com Apache
+
+# Section 22
+Slim Framework
+
+# Section 23
+Segurança
+- Command Injection
+- SQL Injection
+- Permissões de pastas
+- reCaptcha
+- Cross-site Scripting (XXS)
+- Defense in depth
+- SSL e PHP Session Hijacking
+
+# Section 24
+Projeto de conclusão de curso
+- Administração de uma loja virtual
